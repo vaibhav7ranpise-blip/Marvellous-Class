@@ -1,0 +1,30 @@
+def main():
+    Ans = 0
+    try:
+        print("Enter First number :") 
+        No1 = int(input())
+
+        print("Enter Second number :") 
+        No2 = int(input())
+        Ans =  No1 / No2
+
+        print("Division is Succesfull")
+        
+    except ZeroDivisionError as Zobj:
+        print("Exception Occured Deu to second oprand is Zero :",Zobj)
+
+    except ValueError as Vobj:
+        print("Exception occured Due to invalid datatype",Vobj)
+    
+    except Exception as Eobj:  #generic catch block - handle all expetion "Exception Is class"
+        print("Exception Occured :",Eobj)
+
+    finally:
+        print("Inside Finally Block")
+
+        
+    print("Result is :", Ans)
+    
+
+if __name__ == "__main__":
+    main()
