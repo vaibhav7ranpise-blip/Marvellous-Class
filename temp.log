@@ -1,0 +1,642 @@
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'System Idle Process', 'status': 'running', 'pid': 0, 'cpu_percent': 0.0, 'Memory_Percent': 9.863674159442347e-05}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'System', 'status': 'running', 'pid': 4, 'cpu_percent': 0.0, 'Memory_Percent': 0.00039454696637769386}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'Registry', 'status': 'running', 'pid': 124, 'cpu_percent': 0.0, 'Memory_Percent': 0.9741857783573233}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'powershell.exe', 'status': 'running', 'pid': 128, 'cpu_percent': 0.0, 'Memory_Percent': 0.6407442733973749}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'smss.exe', 'status': 'running', 'pid': 484, 'cpu_percent': 0.0, 'Memory_Percent': 0.007496392361176184}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'status': 'running', 'pid': 608, 'cpu_percent': 0.0, 'Memory_Percent': 0.4586608484140692}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'SearchProtocolHost.exe', 'status': 'running', 'pid': 616, 'cpu_percent': 0.0, 'Memory_Percent': 0.10514676653965542}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'status': 'running', 'pid': 724, 'cpu_percent': 0.0, 'Memory_Percent': 0.12714275991521187}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'csrss.exe', 'status': 'running', 'pid': 736, 'cpu_percent': 0.0, 'Memory_Percent': 0.07151163765595703}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'wininit.exe', 'status': 'running', 'pid': 832, 'cpu_percent': 0.0, 'Memory_Percent': 0.08122735670300772}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'services.exe', 'status': 'running', 'pid': 904, 'cpu_percent': 0.0, 'Memory_Percent': 0.1700990608795833}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'lsass.exe', 'status': 'running', 'pid': 912, 'cpu_percent': 0.0, 'Memory_Percent': 0.255518479100354}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'Font Driver Host\\UMFD-0', 'name': 'fontdrvhost.exe', 'status': 'running', 'pid': 944, 'cpu_percent': 0.0, 'Memory_Percent': 0.04172334169444113}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'WUDFHost.exe', 'status': 'running', 'pid': 1076, 'cpu_percent': 0.0, 'Memory_Percent': 0.248761862301136}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\NETWORK SERVICE', 'name': 'svchost.exe', 'status': 'running', 'pid': 1168, 'cpu_percent': 0.0, 'Memory_Percent': 0.24427389055858972}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'status': 'running', 'pid': 1216, 'cpu_percent': 0.0, 'Memory_Percent': 0.13557620132153506}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'WUDFHost.exe', 'status': 'running', 'pid': 1292, 'cpu_percent': 0.0, 'Memory_Percent': 0.08344668338888225}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'msedgewebview2.exe', 'status': 'stopped', 'pid': 1304, 'cpu_percent': 0.0, 'Memory_Percent': 0.33940902782641114}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe', 'status': 'running', 'pid': 1344, 'cpu_percent': 0.0, 'Memory_Percent': 0.08310145479330178}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe', 'status': 'running', 'pid': 1368, 'cpu_percent': 0.0, 'Memory_Percent': 0.08453168754642092}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe', 'status': 'running', 'pid': 1380, 'cpu_percent': 0.0, 'Memory_Percent': 0.12512070671252618}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe', 'status': 'running', 'pid': 1388, 'cpu_percent': 0.0, 'Memory_Percent': 0.14371373250307498}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'status': 'running', 'pid': 1472, 'cpu_percent': 0.0, 'Memory_Percent': 0.18134364942134756}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe', 'status': 'running', 'pid': 1484, 'cpu_percent': 0.0, 'Memory_Percent': 0.13597074828791278}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'Code.exe', 'status': 'running', 'pid': 1512, 'cpu_percent': 0.0, 'Memory_Percent': 1.3379580813575571}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'status': 'running', 'pid': 1528, 'cpu_percent': 0.0, 'Memory_Percent': 0.12216160446469346}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'conhost.exe', 'status': 'running', 'pid': 1632, 'cpu_percent': 0.0, 'Memory_Percent': 0.07151163765595703}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'IntelCpHDCPSvc.exe', 'status': 'running', 'pid': 1688, 'cpu_percent': 0.0, 'Memory_Percent': 0.059379318439842926}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'status': 'running', 'pid': 1728, 'cpu_percent': 0.0, 'Memory_Percent': 0.09858742322362626}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe', 'status': 'running', 'pid': 1800, 'cpu_percent': 0.0, 'Memory_Percent': 0.08793465513142852}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'status': 'running', 'pid': 1816, 'cpu_percent': 0.0, 'Memory_Percent': 0.07254732344269847}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe', 'status': 'running', 'pid': 1824, 'cpu_percent': 0.0, 'Memory_Percent': 0.09010466344650585}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe', 'status': 'running', 'pid': 1836, 'cpu_percent': 0.0, 'Memory_Percent': 0.18514116397273286}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe', 'status': 'running', 'pid': 1916, 'cpu_percent': 0.0, 'Memory_Percent': 0.14129713233401162}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'status': 'running', 'pid': 1928, 'cpu_percent': 0.0, 'Memory_Percent': 0.26370532865269114}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'status': 'running', 'pid': 1996, 'cpu_percent': 0.0, 'Memory_Percent': 0.06613593523906093}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\NETWORK SERVICE', 'name': 'svchost.exe', 'status': 'running', 'pid': 2208, 'cpu_percent': 0.0, 'Memory_Percent': 0.1466235163801105}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe', 'status': 'running', 'pid': 2216, 'cpu_percent': 0.0, 'Memory_Percent': 0.08936488788454766}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe', 'status': 'running', 'pid': 2224, 'cpu_percent': 0.0, 'Memory_Percent': 0.0697854946780546}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'status': 'running', 'pid': 2236, 'cpu_percent': 0.0, 'Memory_Percent': 0.10016561108913703}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'status': 'running', 'pid': 2276, 'cpu_percent': 0.0, 'Memory_Percent': 0.0785641646799583}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'status': 'running', 'pid': 2292, 'cpu_percent': 0.0, 'Memory_Percent': 0.16659745655298125}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'WUDFHost.exe', 'status': 'running', 'pid': 2404, 'cpu_percent': 0.0, 'Memory_Percent': 0.11821613480091653}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe', 'status': 'running', 'pid': 2440, 'cpu_percent': 0.0, 'Memory_Percent': 0.12615639249926763}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\NETWORK SERVICE', 'name': 'svchost.exe', 'status': 'running', 'pid': 2464, 'cpu_percent': 0.0, 'Memory_Percent': 0.2587241732021728}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'igfxCUIServiceN.exe', 'status': 'running', 'pid': 2572, 'cpu_percent': 0.0, 'Memory_Percent': 0.12285206165585444}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'status': 'running', 'pid': 2612, 'cpu_percent': 0.0, 'Memory_Percent': 0.14765920216685194}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'RuntimeBroker.exe', 'status': 'running', 'pid': 2688, 'cpu_percent': 0.0, 'Memory_Percent': 0.1920950542551397}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'python.exe', 'status': 'running', 'pid': 2696, 'cpu_percent': 0.0, 'Memory_Percent': 0.2516716461781715}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\NETWORK SERVICE', 'name': 'svchost.exe', 'status': 'running', 'pid': 2728, 'cpu_percent': 0.0, 'Memory_Percent': 0.09626945979615731}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe', 'status': 'running', 'pid': 2744, 'cpu_percent': 0.0, 'Memory_Percent': 0.12798117221876446}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe', 'status': 'running', 'pid': 2776, 'cpu_percent': 0.0, 'Memory_Percent': 0.07599960939850328}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'status': 'running', 'pid': 2784, 'cpu_percent': 0.0, 'Memory_Percent': 0.12886890289311426}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'SynTPEnhService.exe', 'status': 'running', 'pid': 2824, 'cpu_percent': 0.0, 'Memory_Percent': 0.12443024952136521}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'FMService64.exe', 'status': 'running', 'pid': 2836, 'cpu_percent': 0.0, 'Memory_Percent': 0.18464798026476076}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'status': 'running', 'pid': 2852, 'cpu_percent': 0.0, 'Memory_Percent': 0.2517702829197659}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'msedge.exe', 'status': 'running', 'pid': 2964, 'cpu_percent': 0.0, 'Memory_Percent': 1.2246244652655647}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'status': 'running', 'pid': 3064, 'cpu_percent': 0.0, 'Memory_Percent': 0.1761159021168431}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'status': 'running', 'pid': 3112, 'cpu_percent': 0.0, 'Memory_Percent': 0.09345831266071623}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe', 'status': 'running', 'pid': 3120, 'cpu_percent': 0.0, 'Memory_Percent': 0.08832920209780622}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'AppHelperCap.exe', 'status': 'running', 'pid': 3140, 'cpu_percent': 0.0, 'Memory_Percent': 0.21798719892367588}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'MemCompression', 'status': 'running', 'pid': 3148, 'cpu_percent': 0.0, 'Memory_Percent': 4.910728817019967}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'status': 'running', 'pid': 3168, 'cpu_percent': 0.0, 'Memory_Percent': 0.2550252953923819}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'DiagsCap.exe', 'status': 'running', 'pid': 3192, 'cpu_percent': 0.0, 'Memory_Percent': 0.17286088964422713}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'NetworkCap.exe', 'status': 'running', 'pid': 3224, 'cpu_percent': 0.0, 'Memory_Percent': 0.2729278639917697}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'SysInfoCap.exe', 'status': 'running', 'pid': 3308, 'cpu_percent': 0.0, 'Memory_Percent': 1.3336673830981998}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'TouchpointAnalyticsClientService.exe', 'status': 'running', 'pid': 3316, 'cpu_percent': 0.0, 'Memory_Percent': 0.8160217632106654}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'unsecapp.exe', 'status': 'running', 'pid': 3424, 'cpu_percent': 0.0, 'Memory_Percent': 0.09345831266071623}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'ApplicationFrameHost.exe', 'status': 'running', 'pid': 3436, 'cpu_percent': 0.0, 'Memory_Percent': 0.3844860187350627}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'hpsvcsscan.exe', 'status': 'running', 'pid': 3444, 'cpu_percent': 0.0, 'Memory_Percent': 0.5234651876416053}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe', 'status': 'running', 'pid': 3452, 'cpu_percent': 0.0, 'Memory_Percent': 0.42290502958609066}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\NETWORK SERVICE', 'name': 'svchost.exe', 'status': 'running', 'pid': 3540, 'cpu_percent': 0.0, 'Memory_Percent': 0.17345271009379368}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'status': 'running', 'pid': 3716, 'cpu_percent': 0.0, 'Memory_Percent': 0.5548316714686321}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'NisSrv.exe', 'status': 'running', 'pid': 3720, 'cpu_percent': 0.0, 'Memory_Percent': 0.1256632087912955}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe', 'status': 'running', 'pid': 3740, 'cpu_percent': 0.0, 'Memory_Percent': 0.10149720710066175}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'OneDrive.Sync.Service.exe', 'status': 'running', 'pid': 3868, 'cpu_percent': 0.0, 'Memory_Percent': 0.1222602412062879}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe', 'status': 'running', 'pid': 3964, 'cpu_percent': 0.0, 'Memory_Percent': 0.17823659206112322}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'taskhostw.exe', 'status': 'running', 'pid': 4060, 'cpu_percent': 0.0, 'Memory_Percent': 0.23672817982661634}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'wlanext.exe', 'status': 'running', 'pid': 4156, 'cpu_percent': 0.0, 'Memory_Percent': 0.08694828771548428}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'WmiPrvSE.exe', 'status': 'running', 'pid': 4204, 'cpu_percent': 0.0, 'Memory_Percent': 0.16546313402464538}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'msedgewebview2.exe', 'status': 'stopped', 'pid': 4348, 'cpu_percent': 0.0, 'Memory_Percent': 0.20782761453945026}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'Font Driver Host\\UMFD-7', 'name': 'fontdrvhost.exe', 'status': 'running', 'pid': 4356, 'cpu_percent': 0.0, 'Memory_Percent': 0.06544547804789998}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'status': 'running', 'pid': 4604, 'cpu_percent': 0.0, 'Memory_Percent': 0.09000602670491142}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'status': 'running', 'pid': 4624, 'cpu_percent': 0.0, 'Memory_Percent': 0.07890939327553878}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'status': 'running', 'pid': 4632, 'cpu_percent': 0.0, 'Memory_Percent': 0.10445630934849445}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'status': 'running', 'pid': 5060, 'cpu_percent': 0.0, 'Memory_Percent': 0.24669049072765312}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'status': 'running', 'pid': 5068, 'cpu_percent': 0.0, 'Memory_Percent': 0.12378911070100146}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe', 'status': 'running', 'pid': 5096, 'cpu_percent': 0.0, 'Memory_Percent': 0.24600003353649216}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe', 'status': 'running', 'pid': 5192, 'cpu_percent': 0.0, 'Memory_Percent': 0.06884844563290758}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'AggregatorHost.exe', 'status': 'running', 'pid': 5228, 'cpu_percent': 0.0, 'Memory_Percent': 0.10401244401131955}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'Code.exe', 'status': 'running', 'pid': 5252, 'cpu_percent': 0.0, 'Memory_Percent': 0.3604186537860234}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'SearchIndexer.exe', 'status': 'running', 'pid': 5272, 'cpu_percent': 0.0, 'Memory_Percent': 0.5683942234378653}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\NETWORK SERVICE', 'name': 'WmiPrvSE.exe', 'status': 'running', 'pid': 5340, 'cpu_percent': 0.0, 'Memory_Percent': 0.14228349974995586}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'HotKeyServiceUWP.exe', 'status': 'running', 'pid': 5412, 'cpu_percent': 0.0, 'Memory_Percent': 0.3849298840722376}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'armsvc.exe', 'status': 'running', 'pid': 5436, 'cpu_percent': 0.0, 'Memory_Percent': 0.06519888619391391}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'msedgewebview2.exe', 'status': 'stopped', 'pid': 5500, 'cpu_percent': 0.0, 'Memory_Percent': 0.4633460936398042}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe', 'status': 'running', 'pid': 5516, 'cpu_percent': 0.0, 'Memory_Percent': 0.12107660030715481}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'status': 'running', 'pid': 5552, 'cpu_percent': 0.0, 'Memory_Percent': 0.24126546993995984}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'status': 'running', 'pid': 5616, 'cpu_percent': 0.0, 'Memory_Percent': 0.16990178739639444}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'status': 'running', 'pid': 5736, 'cpu_percent': 0.0, 'Memory_Percent': 0.06145069001332582}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'spoolsv.exe', 'status': 'running', 'pid': 5792, 'cpu_percent': 0.0, 'Memory_Percent': 0.15702969261832217}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'status': 'running', 'pid': 5860, 'cpu_percent': 0.0, 'Memory_Percent': 0.14425623458184433}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe', 'status': 'running', 'pid': 5912, 'cpu_percent': 0.0, 'Memory_Percent': 0.16107379902369354}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\NETWORK SERVICE', 'name': 'svchost.exe', 'status': 'running', 'pid': 5944, 'cpu_percent': 0.0, 'Memory_Percent': 0.08749078979425362}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'PresentMonService.exe', 'status': 'running', 'pid': 6112, 'cpu_percent': 0.0, 'Memory_Percent': 0.12270410654346281}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'conhost.exe', 'status': 'running', 'pid': 6132, 'cpu_percent': 0.0, 'Memory_Percent': 0.05888613473187082}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'TbtP2pShortcutService.exe', 'status': 'running', 'pid': 6148, 'cpu_percent': 0.0, 'Memory_Percent': 0.06090818793455649}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'SECOMN64.exe', 'status': 'running', 'pid': 6156, 'cpu_percent': 0.0, 'Memory_Percent': 0.14598237755974675}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'IntelAudioService.exe', 'status': 'running', 'pid': 6164, 'cpu_percent': 0.0, 'Memory_Percent': 0.3526756695708611}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'jhi_service.exe', 'status': 'running', 'pid': 6176, 'cpu_percent': 0.0, 'Memory_Percent': 0.06534684130630555}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'UltraViewer_Service.exe', 'status': 'running', 'pid': 6184, 'cpu_percent': 0.0, 'Memory_Percent': 0.26049963455087244}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'RstMwService.exe', 'status': 'running', 'pid': 6192, 'cpu_percent': 0.0, 'Memory_Percent': 0.079895760691483}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'esif_uf.exe', 'status': 'running', 'pid': 6200, 'cpu_percent': 0.0, 'Memory_Percent': 0.0692923109700825}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'RtkAudUService64.exe', 'status': 'running', 'pid': 6208, 'cpu_percent': 0.0, 'Memory_Percent': 0.21344990881033238}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'WMIRegistrationService.exe', 'status': 'running', 'pid': 6220, 'cpu_percent': 0.0, 'Memory_Percent': 0.13020049890463897}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'MpDefenderCoreService.exe', 'status': 'running', 'pid': 6224, 'cpu_percent': 0.0, 'Memory_Percent': 0.22370812993615244}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'MsMpEng.exe', 'status': 'running', 'pid': 6232, 'cpu_percent': 0.0, 'Memory_Percent': 3.0493055480208047}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'LMS.exe', 'status': 'running', 'pid': 6264, 'cpu_percent': 0.0, 'Memory_Percent': 0.16294789711398758}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'status': 'running', 'pid': 6280, 'cpu_percent': 0.0, 'Memory_Percent': 0.26794670854125135}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'SynTPEnh.exe', 'status': 'running', 'pid': 6528, 'cpu_percent': 0.0, 'Memory_Percent': 0.2768240152847495}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe', 'status': 'running', 'pid': 6636, 'cpu_percent': 0.0, 'Memory_Percent': 0.05928068169824851}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'status': 'running', 'pid': 6832, 'cpu_percent': 0.0, 'Memory_Percent': 0.14657419800931326}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe', 'status': 'running', 'pid': 6872, 'cpu_percent': 0.0, 'Memory_Percent': 0.08837852046860342}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'LanWlanWwanSwitchingServiceUWP.exe', 'status': 'running', 'pid': 6960, 'cpu_percent': 0.0, 'Memory_Percent': 0.15910106419180506}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'msedge.exe', 'status': 'running', 'pid': 7044, 'cpu_percent': 0.0, 'Memory_Percent': 0.2093071656633666}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'StartMenuExperienceHost.exe', 'status': 'running', 'pid': 7256, 'cpu_percent': 0.0, 'Memory_Percent': 1.1737772249736393}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'msedgewebview2.exe', 'status': 'running', 'pid': 7588, 'cpu_percent': 0.0, 'Memory_Percent': 0.11362952631677585}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'status': 'running', 'pid': 7640, 'cpu_percent': 0.0, 'Memory_Percent': 0.11703249390178345}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'status': 'running', 'pid': 7652, 'cpu_percent': 0.0, 'Memory_Percent': 0.07427346642060087}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'SearchFilterHost.exe', 'status': 'running', 'pid': 7720, 'cpu_percent': 0.0, 'Memory_Percent': 0.09360626777310788}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'dllhost.exe', 'status': 'running', 'pid': 7832, 'cpu_percent': 0.0, 'Memory_Percent': 0.13251846233210793}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'IntelGraphicsSoftware.Service.exe', 'status': 'running', 'pid': 8096, 'cpu_percent': 0.0, 'Memory_Percent': 0.43301529559951907}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'dasHost.exe', 'status': 'running', 'pid': 8128, 'cpu_percent': 0.0, 'Memory_Percent': 0.13725302592864025}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'audiodg.exe', 'status': 'running', 'pid': 8224, 'cpu_percent': 0.0, 'Memory_Percent': 0.27194149657582556}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'FMToastNotification.exe', 'status': 'running', 'pid': 8320, 'cpu_percent': 0.0, 'Memory_Percent': 0.11989295940802173}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'msedge.exe', 'status': 'running', 'pid': 8328, 'cpu_percent': 0.0, 'Memory_Percent': 0.12359183721781261}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'dllhost.exe', 'status': 'running', 'pid': 8776, 'cpu_percent': 0.0, 'Memory_Percent': 0.15993947649535767}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'ctfmon.exe', 'status': 'running', 'pid': 9220, 'cpu_percent': 0.0, 'Memory_Percent': 0.2887590610176747}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'powershell.exe', 'status': 'running', 'pid': 9280, 'cpu_percent': 0.0, 'Memory_Percent': 0.6395606324982418}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'Code.exe', 'status': 'running', 'pid': 9492, 'cpu_percent': 0.0, 'Memory_Percent': 0.5567057695589261}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'svchost.exe', 'status': 'running', 'pid': 9560, 'cpu_percent': 0.0, 'Memory_Percent': 0.43686212852170153}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'status': 'running', 'pid': 9656, 'cpu_percent': 0.0, 'Memory_Percent': 0.23559385729828045}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'Code.exe', 'status': 'running', 'pid': 9732, 'cpu_percent': 0.0, 'Memory_Percent': 3.916815690343759}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'TextInputHost.exe', 'status': 'running', 'pid': 9820, 'cpu_percent': 0.0, 'Memory_Percent': 0.7455951297122471}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'status': 'running', 'pid': 9960, 'cpu_percent': 0.0, 'Memory_Percent': 0.09375422288549952}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'status': 'running', 'pid': 10124, 'cpu_percent': 0.0, 'Memory_Percent': 0.2665164757881322}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'powershell.exe', 'status': 'running', 'pid': 10212, 'cpu_percent': 0.0, 'Memory_Percent': 0.6386235834530948}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'msedge.exe', 'status': 'running', 'pid': 10232, 'cpu_percent': 0.0, 'Memory_Percent': 0.36717527058524135}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'SecurityHealthSystray.exe', 'status': 'running', 'pid': 10296, 'cpu_percent': 0.0, 'Memory_Percent': 0.10914155457422957}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'cmd.exe', 'status': 'running', 'pid': 10392, 'cpu_percent': 0.0, 'Memory_Percent': 0.05863954287788476}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'winlogon.exe', 'status': 'running', 'pid': 10484, 'cpu_percent': 0.0, 'Memory_Percent': 0.13809143823219286}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'svchost.exe', 'status': 'running', 'pid': 10588, 'cpu_percent': 0.0, 'Memory_Percent': 0.10692222788835505}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'conhost.exe', 'status': 'running', 'pid': 10900, 'cpu_percent': 0.0, 'Memory_Percent': 0.2707085373058952}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'Window Manager\\DWM-7', 'name': 'dwm.exe', 'status': 'running', 'pid': 10924, 'cpu_percent': 0.0, 'Memory_Percent': 1.1432984718209624}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'pet.exe', 'status': 'running', 'pid': 11048, 'cpu_percent': 0.0, 'Memory_Percent': 0.07723256866843359}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'status': 'running', 'pid': 11156, 'cpu_percent': 0.0, 'Memory_Percent': 0.12536729856651224}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'RtkAudUService64.exe', 'status': 'running', 'pid': 11188, 'cpu_percent': 0.0, 'Memory_Percent': 0.15845992537144132}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'svchost.exe', 'status': 'running', 'pid': 11256, 'cpu_percent': 0.0, 'Memory_Percent': 0.31499643428179136}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'Code.exe', 'status': 'running', 'pid': 11276, 'cpu_percent': 0.0, 'Memory_Percent': 1.1231272581649028}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'status': 'running', 'pid': 11496, 'cpu_percent': 0.0, 'Memory_Percent': 0.2861451873654225}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'RuntimeBroker.exe', 'status': 'running', 'pid': 11588, 'cpu_percent': 0.0, 'Memory_Percent': 0.34271335866982433}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'OneDrive.exe', 'status': 'running', 'pid': 11744, 'cpu_percent': 0.0, 'Memory_Percent': 0.11338293446278978}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'conhost.exe', 'status': 'running', 'pid': 11816, 'cpu_percent': 0.0, 'Memory_Percent': 0.07165959276834866}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'OpenConsole.exe', 'status': 'running', 'pid': 11884, 'cpu_percent': 0.0, 'Memory_Percent': 0.09114034923324729}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'Code.exe', 'status': 'running', 'pid': 11988, 'cpu_percent': 0.0, 'Memory_Percent': 1.148526219125467}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'status': 'running', 'pid': 12012, 'cpu_percent': 0.0, 'Memory_Percent': 0.1399162179516897}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'csrss.exe', 'status': 'running', 'pid': 12052, 'cpu_percent': 0.0, 'Memory_Percent': 0.0785641646799583}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'SecurityHealthService.exe', 'status': 'running', 'pid': 12348, 'cpu_percent': 0.0, 'Memory_Percent': 0.20274782234733746}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'RuntimeBroker.exe', 'status': 'running', 'pid': 12376, 'cpu_percent': 0.0, 'Memory_Percent': 0.3843380636226711}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'UserOOBEBroker.exe', 'status': 'running', 'pid': 12528, 'cpu_percent': 0.0, 'Memory_Percent': 0.1113115628893069}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'LockApp.exe', 'status': 'stopped', 'pid': 12756, 'cpu_percent': 0.0, 'Memory_Percent': 0.7535847057813954}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe', 'status': 'running', 'pid': 12768, 'cpu_percent': 0.0, 'Memory_Percent': 0.12087932682396597}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'SearchApp.exe', 'status': 'stopped', 'pid': 12816, 'cpu_percent': 0.0, 'Memory_Percent': 1.4579496775071734}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'WmiPrvSE.exe', 'status': 'running', 'pid': 13008, 'cpu_percent': 0.0, 'Memory_Percent': 0.13143345817456928}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'RuntimeBroker.exe', 'status': 'running', 'pid': 13128, 'cpu_percent': 0.0, 'Memory_Percent': 0.21418968437229058}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'SearchApp.exe', 'status': 'stopped', 'pid': 13356, 'cpu_percent': 0.0, 'Memory_Percent': 0.8325927357985285}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'igfxEMN.exe', 'status': 'running', 'pid': 13512, 'cpu_percent': 0.0, 'Memory_Percent': 0.16023538672014093}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'Code.exe', 'status': 'running', 'pid': 13536, 'cpu_percent': 0.0, 'Memory_Percent': 1.3020049890463898}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'svchost.exe', 'status': 'running', 'pid': 13656, 'cpu_percent': 0.0, 'Memory_Percent': 0.27080717404748966}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe', 'status': 'running', 'pid': 13788, 'cpu_percent': 0.0, 'Memory_Percent': 0.11910386547526634}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'msedge.exe', 'status': 'running', 'pid': 13856, 'cpu_percent': 0.0, 'Memory_Percent': 0.40855338368410204}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe', 'status': 'running', 'pid': 14148, 'cpu_percent': 0.0, 'Memory_Percent': 0.08882238580577834}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'status': 'running', 'pid': 14308, 'cpu_percent': 0.0, 'Memory_Percent': 0.11658862856460854}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'SkypeBackgroundHost.exe', 'status': 'stopped', 'pid': 14368, 'cpu_percent': 0.0, 'Memory_Percent': 0.021354854555192683}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'Code.exe', 'status': 'running', 'pid': 14472, 'cpu_percent': 0.0, 'Memory_Percent': 7.780910042305298}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'OpenConsole.exe', 'status': 'running', 'pid': 14572, 'cpu_percent': 0.0, 'Memory_Percent': 0.0911896676040445}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'msedgewebview2.exe', 'status': 'stopped', 'pid': 14724, 'cpu_percent': 0.0, 'Memory_Percent': 1.0280907576386757}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'explorer.exe', 'status': 'running', 'pid': 14940, 'cpu_percent': 0.0, 'Memory_Percent': 2.676754575018667}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'RtkAudUService64.exe', 'status': 'running', 'pid': 14988, 'cpu_percent': 0.0, 'Memory_Percent': 0.18183683312931967}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'Code.exe', 'status': 'running', 'pid': 14992, 'cpu_percent': 0.0, 'Memory_Percent': 1.0578297352293946}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'status': 'running', 'pid': 15088, 'cpu_percent': 0.0, 'Memory_Percent': 0.1475605654252575}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\LOCAL SERVICE', 'name': 'svchost.exe', 'status': 'running', 'pid': 15096, 'cpu_percent': 0.0, 'Memory_Percent': 0.20733443083147812}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'RuntimeBroker.exe', 'status': 'running', 'pid': 15120, 'cpu_percent': 0.0, 'Memory_Percent': 0.556212585850954}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'svchost.exe', 'status': 'running', 'pid': 15320, 'cpu_percent': 0.0, 'Memory_Percent': 0.2844190443875201}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'smartscreen.exe', 'status': 'running', 'pid': 15440, 'cpu_percent': 0.0, 'Memory_Percent': 0.2866383710733946}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'Code.exe', 'status': 'running', 'pid': 15676, 'cpu_percent': 0.0, 'Memory_Percent': 1.8271470012951003}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'OpenConsole.exe', 'status': 'running', 'pid': 16084, 'cpu_percent': 0.0, 'Memory_Percent': 0.09109103086245007}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'SECOCL64.exe', 'status': 'running', 'pid': 16148, 'cpu_percent': 0.0, 'Memory_Percent': 0.14484805503141088}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'RuntimeBroker.exe', 'status': 'running', 'pid': 16536, 'cpu_percent': 0.0, 'Memory_Percent': 0.5020610147156155}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'SystemSettings.exe', 'status': 'running', 'pid': 16584, 'cpu_percent': 0.0, 'Memory_Percent': 0.6240253456971201}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'msedgewebview2.exe', 'status': 'stopped', 'pid': 16764, 'cpu_percent': 0.0, 'Memory_Percent': 0.4408075981854785}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'Code.exe', 'status': 'running', 'pid': 16840, 'cpu_percent': 0.0, 'Memory_Percent': 3.647734659274172}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'Code.exe', 'status': 'running', 'pid': 17028, 'cpu_percent': 0.0, 'Memory_Percent': 1.7636742580790887}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'HPAudioAnalytics.exe', 'status': 'running', 'pid': 17088, 'cpu_percent': 0.0, 'Memory_Percent': 0.15436650059527274}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'svchost.exe', 'status': 'running', 'pid': 17232, 'cpu_percent': 0.0, 'Memory_Percent': 0.08709624282787592}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'sihost.exe', 'status': 'running', 'pid': 17676, 'cpu_percent': 0.0, 'Memory_Percent': 0.3442422281645379}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'SkypeApp.exe', 'status': 'stopped', 'pid': 17952, 'cpu_percent': 0.0, 'Memory_Percent': 0.027174422309263667}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'SynTPHelper.exe', 'status': 'running', 'pid': 17976, 'cpu_percent': 0.0, 'Memory_Percent': 0.07175822950994308}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'conhost.exe', 'status': 'running', 'pid': 18176, 'cpu_percent': 0.0, 'Memory_Percent': 0.07412551130820924}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'ShellExperienceHost.exe', 'status': 'stopped', 'pid': 18380, 'cpu_percent': 0.0, 'Memory_Percent': 0.8229263351222751}
+---------------------------------------------------
+---------------------------------------------------
+{'username': 'DESKTOP-KIT34LE\\Vaibhav', 'name': 'Code.exe', 'status': 'running', 'pid': 18424, 'cpu_percent': 0.0, 'Memory_Percent': 1.1782651967161857}
+---------------------------------------------------
+--------------------------------------------------
+------Marvellous Platform Survellince System-----
+--------------------------------------------------
+Invalid no of argument
+Unable to procced arguments not matching 
+Please use --h or -- u flag for getting more details
+--------------------------------------------------
+------Thank You for  Using our Automation System -----
+--------------------------------------------------

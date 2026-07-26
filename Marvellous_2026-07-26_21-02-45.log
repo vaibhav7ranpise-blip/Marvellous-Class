@@ -1,0 +1,1459 @@
+--------------------------------------------------
+------Marvellous Platform Survellince System-----
+LOgfile gets created at :2026-07-26_21-02-45
+--------------------------------------------------
+
+------------System report----------------
+Number of active cores  : 8
+CPU Usage : 5.2 %
+--------------------------------------------------
+RAM Usage : 67.2 %
+TOatal RAM Availbale : 8305221632
+--------------------------------------------------
+Network Usage ReportSend : 2.07 MB 
+ Receive : 2.41 MB 
+ --------------------------------------------------
+PID : 0 
+ Name : System Idle Process 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 762.00 
+ RAM USage : 0.00 
+ --------------------------------------------------
+PID : 4 
+ Name : System 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 2.30 
+ RAM USage : 0.00 
+ --------------------------------------------------
+PID : 124 
+ Name : Registry 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.97 
+ --------------------------------------------------
+PID : 128 
+ Name : powershell.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.65 
+ --------------------------------------------------
+PID : 484 
+ Name : smss.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.01 
+ --------------------------------------------------
+PID : 608 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.40 
+ RAM USage : 0.46 
+ --------------------------------------------------
+PID : 724 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.13 
+ --------------------------------------------------
+PID : 736 
+ Name : csrss.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.07 
+ --------------------------------------------------
+PID : 832 
+ Name : wininit.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.08 
+ --------------------------------------------------
+PID : 904 
+ Name : services.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.17 
+ --------------------------------------------------
+PID : 912 
+ Name : lsass.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.20 
+ RAM USage : 0.29 
+ --------------------------------------------------
+PID : 944 
+ Name : fontdrvhost.exe 
+ User_Name : Font Driver Host\UMFD-0 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.04 
+ --------------------------------------------------
+PID : 1076 
+ Name : WUDFHost.exe 
+ User_Name : NT AUTHORITY\LOCAL SERVICE 
+ Status : running 
+ Usage CPU : 0.10 
+ RAM USage : 0.25 
+ --------------------------------------------------
+PID : 1168 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\NETWORK SERVICE 
+ Status : running 
+ Usage CPU : 0.60 
+ RAM USage : 0.25 
+ --------------------------------------------------
+PID : 1216 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.14 
+ --------------------------------------------------
+PID : 1292 
+ Name : WUDFHost.exe 
+ User_Name : NT AUTHORITY\LOCAL SERVICE 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.08 
+ --------------------------------------------------
+PID : 1304 
+ Name : msedgewebview2.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : stopped 
+ Usage CPU : 0.00 
+ RAM USage : 0.34 
+ --------------------------------------------------
+PID : 1344 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\LOCAL SERVICE 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.08 
+ --------------------------------------------------
+PID : 1368 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\LOCAL SERVICE 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.08 
+ --------------------------------------------------
+PID : 1380 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\LOCAL SERVICE 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.13 
+ --------------------------------------------------
+PID : 1388 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\LOCAL SERVICE 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.14 
+ --------------------------------------------------
+PID : 1472 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.10 
+ RAM USage : 0.19 
+ --------------------------------------------------
+PID : 1484 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\LOCAL SERVICE 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.13 
+ --------------------------------------------------
+PID : 1512 
+ Name : Code.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 1.33 
+ --------------------------------------------------
+PID : 1528 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.12 
+ --------------------------------------------------
+PID : 1632 
+ Name : conhost.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.07 
+ --------------------------------------------------
+PID : 1688 
+ Name : IntelCpHDCPSvc.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.06 
+ --------------------------------------------------
+PID : 1728 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.10 
+ --------------------------------------------------
+PID : 1800 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\LOCAL SERVICE 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.09 
+ --------------------------------------------------
+PID : 1816 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.07 
+ --------------------------------------------------
+PID : 1824 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\LOCAL SERVICE 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.09 
+ --------------------------------------------------
+PID : 1836 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\LOCAL SERVICE 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.18 
+ --------------------------------------------------
+PID : 1916 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\LOCAL SERVICE 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.14 
+ --------------------------------------------------
+PID : 1928 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 1.80 
+ RAM USage : 0.30 
+ --------------------------------------------------
+PID : 1996 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.07 
+ --------------------------------------------------
+PID : 2208 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\NETWORK SERVICE 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.13 
+ --------------------------------------------------
+PID : 2216 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\LOCAL SERVICE 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.09 
+ --------------------------------------------------
+PID : 2224 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\LOCAL SERVICE 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.07 
+ --------------------------------------------------
+PID : 2236 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.10 
+ RAM USage : 0.10 
+ --------------------------------------------------
+PID : 2276 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.08 
+ --------------------------------------------------
+PID : 2292 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.17 
+ --------------------------------------------------
+PID : 2404 
+ Name : WUDFHost.exe 
+ User_Name : NT AUTHORITY\LOCAL SERVICE 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.12 
+ --------------------------------------------------
+PID : 2440 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\LOCAL SERVICE 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.13 
+ --------------------------------------------------
+PID : 2464 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\NETWORK SERVICE 
+ Status : running 
+ Usage CPU : 0.10 
+ RAM USage : 0.26 
+ --------------------------------------------------
+PID : 2572 
+ Name : igfxCUIServiceN.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.12 
+ --------------------------------------------------
+PID : 2612 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.70 
+ RAM USage : 0.15 
+ --------------------------------------------------
+PID : 2688 
+ Name : RuntimeBroker.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.19 
+ --------------------------------------------------
+PID : 2728 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\NETWORK SERVICE 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.10 
+ --------------------------------------------------
+PID : 2744 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\LOCAL SERVICE 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.13 
+ --------------------------------------------------
+PID : 2776 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\LOCAL SERVICE 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.08 
+ --------------------------------------------------
+PID : 2784 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.10 
+ RAM USage : 0.13 
+ --------------------------------------------------
+PID : 2824 
+ Name : SynTPEnhService.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.12 
+ --------------------------------------------------
+PID : 2836 
+ Name : FMService64.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.30 
+ RAM USage : 0.18 
+ --------------------------------------------------
+PID : 2852 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 1.00 
+ RAM USage : 0.26 
+ --------------------------------------------------
+PID : 3064 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.18 
+ --------------------------------------------------
+PID : 3112 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.09 
+ --------------------------------------------------
+PID : 3120 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\LOCAL SERVICE 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.09 
+ --------------------------------------------------
+PID : 3140 
+ Name : AppHelperCap.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.20 
+ RAM USage : 0.22 
+ --------------------------------------------------
+PID : 3148 
+ Name : MemCompression 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 2.20 
+ RAM USage : 4.89 
+ --------------------------------------------------
+PID : 3168 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.10 
+ RAM USage : 0.26 
+ --------------------------------------------------
+PID : 3192 
+ Name : DiagsCap.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.17 
+ --------------------------------------------------
+PID : 3204 
+ Name : WmiPrvSE.exe 
+ User_Name : NT AUTHORITY\LOCAL SERVICE 
+ Status : running 
+ Usage CPU : 0.10 
+ RAM USage : 0.13 
+ --------------------------------------------------
+PID : 3224 
+ Name : NetworkCap.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.27 
+ --------------------------------------------------
+PID : 3308 
+ Name : SysInfoCap.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.10 
+ RAM USage : 1.33 
+ --------------------------------------------------
+PID : 3316 
+ Name : TouchpointAnalyticsClientService.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.10 
+ RAM USage : 0.85 
+ --------------------------------------------------
+PID : 3424 
+ Name : unsecapp.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.09 
+ --------------------------------------------------
+PID : 3436 
+ Name : ApplicationFrameHost.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.32 
+ --------------------------------------------------
+PID : 3444 
+ Name : hpsvcsscan.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.10 
+ RAM USage : 0.56 
+ --------------------------------------------------
+PID : 3452 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\LOCAL SERVICE 
+ Status : running 
+ Usage CPU : 0.10 
+ RAM USage : 0.42 
+ --------------------------------------------------
+PID : 3540 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\NETWORK SERVICE 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.18 
+ --------------------------------------------------
+PID : 3716 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.10 
+ RAM USage : 0.56 
+ --------------------------------------------------
+PID : 3720 
+ Name : NisSrv.exe 
+ User_Name : NT AUTHORITY\LOCAL SERVICE 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.12 
+ --------------------------------------------------
+PID : 3740 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\LOCAL SERVICE 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.10 
+ --------------------------------------------------
+PID : 3868 
+ Name : OneDrive.Sync.Service.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.13 
+ --------------------------------------------------
+PID : 3964 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\LOCAL SERVICE 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.18 
+ --------------------------------------------------
+PID : 4060 
+ Name : taskhostw.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.23 
+ --------------------------------------------------
+PID : 4108 
+ Name : smartscreen.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.29 
+ --------------------------------------------------
+PID : 4156 
+ Name : wlanext.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.09 
+ --------------------------------------------------
+PID : 4204 
+ Name : WmiPrvSE.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.10 
+ RAM USage : 0.17 
+ --------------------------------------------------
+PID : 4348 
+ Name : msedgewebview2.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : stopped 
+ Usage CPU : 0.00 
+ RAM USage : 0.21 
+ --------------------------------------------------
+PID : 4356 
+ Name : fontdrvhost.exe 
+ User_Name : Font Driver Host\UMFD-7 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.06 
+ --------------------------------------------------
+PID : 4504 
+ Name : HPAudioAnalytics.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.15 
+ --------------------------------------------------
+PID : 4604 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.09 
+ --------------------------------------------------
+PID : 4624 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.08 
+ --------------------------------------------------
+PID : 4632 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.10 
+ --------------------------------------------------
+PID : 5060 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.10 
+ RAM USage : 0.25 
+ --------------------------------------------------
+PID : 5068 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.12 
+ --------------------------------------------------
+PID : 5096 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\LOCAL SERVICE 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.25 
+ --------------------------------------------------
+PID : 5192 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\LOCAL SERVICE 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.07 
+ --------------------------------------------------
+PID : 5228 
+ Name : AggregatorHost.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.10 
+ --------------------------------------------------
+PID : 5252 
+ Name : Code.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.36 
+ --------------------------------------------------
+PID : 5272 
+ Name : SearchIndexer.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.10 
+ RAM USage : 0.55 
+ --------------------------------------------------
+PID : 5412 
+ Name : HotKeyServiceUWP.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.10 
+ RAM USage : 0.38 
+ --------------------------------------------------
+PID : 5436 
+ Name : armsvc.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.07 
+ --------------------------------------------------
+PID : 5500 
+ Name : msedgewebview2.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : stopped 
+ Usage CPU : 0.00 
+ RAM USage : 0.46 
+ --------------------------------------------------
+PID : 5516 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\LOCAL SERVICE 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.12 
+ --------------------------------------------------
+PID : 5552 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.10 
+ RAM USage : 0.24 
+ --------------------------------------------------
+PID : 5616 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.17 
+ --------------------------------------------------
+PID : 5736 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.06 
+ --------------------------------------------------
+PID : 5792 
+ Name : spoolsv.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.15 
+ --------------------------------------------------
+PID : 5860 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.14 
+ --------------------------------------------------
+PID : 5912 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\LOCAL SERVICE 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.16 
+ --------------------------------------------------
+PID : 5944 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\NETWORK SERVICE 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.09 
+ --------------------------------------------------
+PID : 6112 
+ Name : PresentMonService.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.12 
+ --------------------------------------------------
+PID : 6132 
+ Name : conhost.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.06 
+ --------------------------------------------------
+PID : 6148 
+ Name : TbtP2pShortcutService.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.06 
+ --------------------------------------------------
+PID : 6156 
+ Name : SECOMN64.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.15 
+ --------------------------------------------------
+PID : 6164 
+ Name : IntelAudioService.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.35 
+ --------------------------------------------------
+PID : 6176 
+ Name : jhi_service.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.07 
+ --------------------------------------------------
+PID : 6184 
+ Name : UltraViewer_Service.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.26 
+ --------------------------------------------------
+PID : 6192 
+ Name : RstMwService.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.08 
+ --------------------------------------------------
+PID : 6200 
+ Name : esif_uf.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.07 
+ --------------------------------------------------
+PID : 6208 
+ Name : RtkAudUService64.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.21 
+ --------------------------------------------------
+PID : 6220 
+ Name : WMIRegistrationService.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.13 
+ --------------------------------------------------
+PID : 6224 
+ Name : MpDefenderCoreService.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.22 
+ --------------------------------------------------
+PID : 6232 
+ Name : MsMpEng.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 2.70 
+ RAM USage : 3.03 
+ --------------------------------------------------
+PID : 6264 
+ Name : LMS.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.16 
+ --------------------------------------------------
+PID : 6280 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.27 
+ --------------------------------------------------
+PID : 6528 
+ Name : SynTPEnh.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : running 
+ Usage CPU : 1.00 
+ RAM USage : 0.28 
+ --------------------------------------------------
+PID : 6636 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\LOCAL SERVICE 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.06 
+ --------------------------------------------------
+PID : 6832 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.14 
+ --------------------------------------------------
+PID : 6872 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\LOCAL SERVICE 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.08 
+ --------------------------------------------------
+PID : 6960 
+ Name : LanWlanWwanSwitchingServiceUWP.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.30 
+ RAM USage : 0.16 
+ --------------------------------------------------
+PID : 7256 
+ Name : StartMenuExperienceHost.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : running 
+ Usage CPU : 0.10 
+ RAM USage : 0.94 
+ --------------------------------------------------
+PID : 7588 
+ Name : msedgewebview2.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.12 
+ --------------------------------------------------
+PID : 7640 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.12 
+ --------------------------------------------------
+PID : 7652 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.07 
+ --------------------------------------------------
+PID : 7832 
+ Name : dllhost.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.13 
+ --------------------------------------------------
+PID : 8096 
+ Name : IntelGraphicsSoftware.Service.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.43 
+ --------------------------------------------------
+PID : 8128 
+ Name : dasHost.exe 
+ User_Name : NT AUTHORITY\LOCAL SERVICE 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.13 
+ --------------------------------------------------
+PID : 8168 
+ Name : msedge.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.12 
+ --------------------------------------------------
+PID : 8776 
+ Name : dllhost.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.16 
+ --------------------------------------------------
+PID : 9220 
+ Name : ctfmon.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : running 
+ Usage CPU : 0.50 
+ RAM USage : 0.29 
+ --------------------------------------------------
+PID : 9280 
+ Name : powershell.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.65 
+ --------------------------------------------------
+PID : 9364 
+ Name : RuntimeBroker.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.14 
+ --------------------------------------------------
+PID : 9492 
+ Name : Code.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.56 
+ --------------------------------------------------
+PID : 9560 
+ Name : svchost.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.44 
+ --------------------------------------------------
+PID : 9656 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.24 
+ --------------------------------------------------
+PID : 9732 
+ Name : Code.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 4.18 
+ --------------------------------------------------
+PID : 9820 
+ Name : TextInputHost.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : running 
+ Usage CPU : 0.10 
+ RAM USage : 0.94 
+ --------------------------------------------------
+PID : 10124 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.27 
+ --------------------------------------------------
+PID : 10212 
+ Name : powershell.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.65 
+ --------------------------------------------------
+PID : 10296 
+ Name : SecurityHealthSystray.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.11 
+ --------------------------------------------------
+PID : 10484 
+ Name : winlogon.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.14 
+ --------------------------------------------------
+PID : 10584 
+ Name : conhost.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : running 
+ Usage CPU : 0.10 
+ RAM USage : 0.24 
+ --------------------------------------------------
+PID : 10588 
+ Name : svchost.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : running 
+ Usage CPU : 0.10 
+ RAM USage : 0.11 
+ --------------------------------------------------
+PID : 10924 
+ Name : dwm.exe 
+ User_Name : Window Manager\DWM-7 
+ Status : running 
+ Usage CPU : 5.00 
+ RAM USage : 1.31 
+ --------------------------------------------------
+PID : 11048 
+ Name : pet.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.08 
+ --------------------------------------------------
+PID : 11156 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.13 
+ --------------------------------------------------
+PID : 11188 
+ Name : RtkAudUService64.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.16 
+ --------------------------------------------------
+PID : 11256 
+ Name : svchost.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : running 
+ Usage CPU : 2.40 
+ RAM USage : 0.32 
+ --------------------------------------------------
+PID : 11276 
+ Name : Code.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 1.13 
+ --------------------------------------------------
+PID : 11588 
+ Name : RuntimeBroker.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.36 
+ --------------------------------------------------
+PID : 11744 
+ Name : OneDrive.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.12 
+ --------------------------------------------------
+PID : 11816 
+ Name : conhost.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.07 
+ --------------------------------------------------
+PID : 11884 
+ Name : OpenConsole.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.09 
+ --------------------------------------------------
+PID : 11988 
+ Name : Code.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 1.17 
+ --------------------------------------------------
+PID : 12012 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.14 
+ --------------------------------------------------
+PID : 12048 
+ Name : audiodg.exe 
+ User_Name : NT AUTHORITY\LOCAL SERVICE 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.26 
+ --------------------------------------------------
+PID : 12052 
+ Name : csrss.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.20 
+ RAM USage : 0.08 
+ --------------------------------------------------
+PID : 12144 
+ Name : python.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : running 
+ Usage CPU : 1.10 
+ RAM USage : 0.26 
+ --------------------------------------------------
+PID : 12348 
+ Name : SecurityHealthService.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.19 
+ --------------------------------------------------
+PID : 12376 
+ Name : RuntimeBroker.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : running 
+ Usage CPU : 0.10 
+ RAM USage : 0.31 
+ --------------------------------------------------
+PID : 12756 
+ Name : LockApp.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : stopped 
+ Usage CPU : 0.00 
+ RAM USage : 0.76 
+ --------------------------------------------------
+PID : 12768 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\LOCAL SERVICE 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.11 
+ --------------------------------------------------
+PID : 12816 
+ Name : SearchApp.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : stopped 
+ Usage CPU : 0.00 
+ RAM USage : 1.46 
+ --------------------------------------------------
+PID : 13128 
+ Name : RuntimeBroker.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.21 
+ --------------------------------------------------
+PID : 13320 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.20 
+ RAM USage : 0.09 
+ --------------------------------------------------
+PID : 13356 
+ Name : SearchApp.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : stopped 
+ Usage CPU : 0.30 
+ RAM USage : 0.83 
+ --------------------------------------------------
+PID : 13432 
+ Name : cmd.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.06 
+ --------------------------------------------------
+PID : 13512 
+ Name : igfxEMN.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.16 
+ --------------------------------------------------
+PID : 13536 
+ Name : Code.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 1.30 
+ --------------------------------------------------
+PID : 13656 
+ Name : svchost.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.34 
+ --------------------------------------------------
+PID : 13684 
+ Name : WmiPrvSE.exe 
+ User_Name : NT AUTHORITY\NETWORK SERVICE 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.13 
+ --------------------------------------------------
+PID : 13788 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\LOCAL SERVICE 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.12 
+ --------------------------------------------------
+PID : 13860 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.15 
+ --------------------------------------------------
+PID : 14148 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\LOCAL SERVICE 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.09 
+ --------------------------------------------------
+PID : 14308 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\SYSTEM 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.12 
+ --------------------------------------------------
+PID : 14368 
+ Name : SkypeBackgroundHost.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : stopped 
+ Usage CPU : 0.00 
+ RAM USage : 0.02 
+ --------------------------------------------------
+PID : 14472 
+ Name : Code.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 9.16 
+ --------------------------------------------------
+PID : 14572 
+ Name : OpenConsole.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.09 
+ --------------------------------------------------
+PID : 14724 
+ Name : msedgewebview2.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : stopped 
+ Usage CPU : 0.00 
+ RAM USage : 1.03 
+ --------------------------------------------------
+PID : 14940 
+ Name : explorer.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : running 
+ Usage CPU : 3.40 
+ RAM USage : 2.91 
+ --------------------------------------------------
+PID : 14988 
+ Name : RtkAudUService64.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.18 
+ --------------------------------------------------
+PID : 14992 
+ Name : Code.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 1.06 
+ --------------------------------------------------
+PID : 15096 
+ Name : svchost.exe 
+ User_Name : NT AUTHORITY\LOCAL SERVICE 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.20 
+ --------------------------------------------------
+PID : 15120 
+ Name : RuntimeBroker.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : running 
+ Usage CPU : 0.10 
+ RAM USage : 0.52 
+ --------------------------------------------------
+PID : 15272 
+ Name : msedge.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.41 
+ --------------------------------------------------
+PID : 15320 
+ Name : svchost.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : running 
+ Usage CPU : 0.10 
+ RAM USage : 0.28 
+ --------------------------------------------------
+PID : 15676 
+ Name : Code.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : running 
+ Usage CPU : 0.20 
+ RAM USage : 1.83 
+ --------------------------------------------------
+PID : 15696 
+ Name : msedge.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 1.23 
+ --------------------------------------------------
+PID : 16032 
+ Name : msedge.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.21 
+ --------------------------------------------------
+PID : 16084 
+ Name : OpenConsole.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.09 
+ --------------------------------------------------
+PID : 16148 
+ Name : SECOCL64.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.15 
+ --------------------------------------------------
+PID : 16536 
+ Name : RuntimeBroker.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : running 
+ Usage CPU : 0.20 
+ RAM USage : 0.57 
+ --------------------------------------------------
+PID : 16764 
+ Name : msedgewebview2.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : stopped 
+ Usage CPU : 0.00 
+ RAM USage : 0.44 
+ --------------------------------------------------
+PID : 16840 
+ Name : Code.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 3.90 
+ --------------------------------------------------
+PID : 17028 
+ Name : Code.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : running 
+ Usage CPU : 0.10 
+ RAM USage : 1.57 
+ --------------------------------------------------
+PID : 17676 
+ Name : sihost.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : running 
+ Usage CPU : 0.10 
+ RAM USage : 0.35 
+ --------------------------------------------------
+PID : 17952 
+ Name : SkypeApp.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : stopped 
+ Usage CPU : 0.00 
+ RAM USage : 0.03 
+ --------------------------------------------------
+PID : 17964 
+ Name : FMToastNotification.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.12 
+ --------------------------------------------------
+PID : 17976 
+ Name : SynTPHelper.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.07 
+ --------------------------------------------------
+PID : 18176 
+ Name : conhost.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.07 
+ --------------------------------------------------
+PID : 18320 
+ Name : msedge.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 0.37 
+ --------------------------------------------------
+PID : 18380 
+ Name : ShellExperienceHost.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : stopped 
+ Usage CPU : 0.00 
+ RAM USage : 0.82 
+ --------------------------------------------------
+PID : 18424 
+ Name : Code.exe 
+ User_Name : DESKTOP-KIT34LE\Vaibhav 
+ Status : running 
+ Usage CPU : 0.00 
+ RAM USage : 1.19 
+ --------------------------------------------------
+--------------------------------------------------
+---------------End of log file------------------------------------------------------------------
