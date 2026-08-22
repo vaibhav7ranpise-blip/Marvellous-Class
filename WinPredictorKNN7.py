@@ -1,0 +1,124 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+
+from sklearn.neighbors import KNeighborsClassifier
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import accuracy_score ,confusion_matrix
+from sklearn.preprocessing import StandardScaler
+
+def MarvellousKNNClasifire(DataPath):
+    Border = "-"*40
+    
+    print(Border)
+    print("Step 1 : Load the dataset from csv file")
+    print(Border)
+    
+    df =  pd.read_csv(DataPath)
+    
+    print(Border)
+    print("some entris from Dataset ")
+    print(df.head())
+    print(Border)
+
+#Step 2 : clean the Dataset
+
+    print(Border)
+    print("Step 2 : clean the Dataset")
+    print(Border)
+
+    df.dropna(inplace=True)
+    print("Total records :",df.shape[0])
+    print("Total Coloumn :",df.shape[1])
+    print(Border)
+
+#Step 3 : Seprate Independent and dependend Variable
+
+    print(Border)
+    print("Step 3 : Seprate Independent and dependend Variable")
+    print(Border)
+    
+    X = df.drop(columns=['Class'])
+    Y = df['Class']
+    
+    print("Shape of X:", X.shape)
+    print("Shape of Y:", Y.shape)
+    
+    print(Border)
+    print("Input coloumn :", X.columns.tolist())
+    print("Output Column:  Class")
+    
+    
+#step 4 : Slit the dataset of Training and Testing 
+
+    print(Border)
+    print("step 4 : Slit the dataset of Training and Testing ")
+    print(Border)
+    
+    X_train, X_test, Y_train, Y_test = train_test_split(X,Y, test_size=0.5,random_state=42,stratify=Y)
+    
+    
+    print(Border)
+    print("Deatails of Training and testing of data")
+    
+    print("Shape of X_train :", X_train.shape)
+    print("Shape of X_test:", X_test.shape)
+    
+    print("Shape of Y_train :", Y_train.shape)
+    print("Shape of Y_test :", Y_test.shape)
+    
+    print(Border)
+    
+#Step 5 : Feature Scaling 
+
+    print(Border)
+    print("Step 5 : Feature Scaling ")
+    print(Border)
+    
+    scalar = StandardScaler()
+    X_train_scaled = scalar.fit_transform(X_train)
+    X_test_scaled = scalar.fit_transform(X_test)
+    
+    
+    print("Feature Scaling done")
+    
+    print(Border)
+    
+#Step 6 : Build the model
+
+    print(Border)
+    print("Step 6 : Build the model")
+    print(Border)
+    
+    model = KNeighborsClassifier(n_neighbors=9)
+    print("Clasification model is Created ")
+    
+#Step 7: Train the model 
+
+    model = model.fit(X_train_scaled,Y_train)
+    
+    print(Border)
+    print("Step 7: Train the model ")
+    print(Border)
+   
+    print("model Train Comppleted ")
+    
+    print(Border)
+    
+#Step 8 : Test the model
+    print(Border)
+    print("Step 8 : Test the model ")
+    print(Border)
+    
+    Y_pred = model.predict(X_test_scaled)
+    
+    accuracy = accuracy_score(Y_test,Y_pred)
+    
+    print("Accuracy is ", accuracy)
+
+def main():
+    
+    MarvellousKNNClasifire("WinePredictor.csv")
+    
+    
+if __name__ == "__main__":
+    main()

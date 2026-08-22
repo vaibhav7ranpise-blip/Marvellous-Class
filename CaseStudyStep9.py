@@ -51,12 +51,15 @@ print("Shape of DataSet :", df.shape) #
 print("Colum name :",list(df.columns))  #column name 
 
 print("MIssing Values per Column :")
+# Check for missing (NaN/null) values in each column, count them, and print the total for each column
 print(df.isnull().sum())                #null value cell cont and sum
 
 print("Class DIstribution (Species Count)")
-print(df["species"].value_counts())
+# Count the frequency of each unique value in the 'species' column (helpful to check for class imbalance)
+print(df["species"].value_counts()) #
 
 print("Statical report of Dataset :")
+# Generate and print a summary of descriptive statistics (mean, standard deviation, min, max, percentiles) for all numerical columns
 print(df.describe())   
 
 ##################################################
